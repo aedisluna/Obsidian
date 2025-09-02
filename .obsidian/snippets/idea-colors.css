@@ -1,0 +1,67 @@
+/* IntelliJ Darcula look for Obsidian — high-specificity override */
+body.theme-dark,
+.theme-dark:is(body, .app-container) {
+  /* Backgrounds */
+  --background-primary: #2b2b2b !important;      /* editor bg */ 
+  --background-primary-alt: #313335 !important;  /* cards/alt */ 
+  --background-secondary: #3c3f41 !important;    /* sidebars */ 
+  --background-secondary-alt: #2f3234 !important;
+  --background-modifier-border: 51,51,51 !important;
+  --background-modifier-form-field: 255,255,255,0.04 !important;
+  --background-modifier-hover: 255,255,255,0.04 !important;
+  --background-modifier-active-hover: 255,255,255,0.06 !important;
+
+  /* Text */
+  --text-normal: #c8c8c8 !important;
+  --text-muted: #a3a7ab !important;
+  --text-faint: #7a7f85 !important;
+  --text-error: #ff5555 !important;
+  --text-warning: #f1fa8c !important;
+  --text-success: #50fa7b !important;
+  
+
+  /* Accent (links, primary buttons) */
+  --interactive-accent: #589df6 !important;
+  --interactive-accent-hover: #6aa6ff !important;
+  --text-accent: #589df6 !important;
+  --text-accent-hover: #6aa6ff !important;
+
+  /* Selection / highlight */
+  --text-selection: 38,79,120,0.95 !important;    /* deep blue selection like IDEA */
+  --text-highlight-bg: 255,255,0,0.35 !important;
+  --caret-color: #cdd7e1 !important;
+
+  /* Surfaces / shadows (минимум свечения как в IDEA) */
+  --shadow-s: 0 1px 2px rgba(0,0,0,0.25) !important;
+  --shadow-l: 0 8px 24px rgba(0,0,0,0.25) !important;
+}
+
+/* Слой выделения редактора (CodeMirror 6) */
+.theme-dark .cm-selectionBackground {
+  background-color: rgba(38,79,120,0.95) !important;
+}
+
+/* На всякий случай включим ::selection для рендера в предпросмотре */
+.theme-dark ::selection {
+  background: rgba(38,79,120,0.95) !important;
+  color: #e6f1ff;
+}
+
+/* Убрать излишнее свечение у блоков темы */
+body.theme-dark .markdown-rendered pre,
+body.theme-dark .callout,
+body.theme-dark .callout:hover {
+  box-shadow: none !important;
+}
+
+/* Ссылки в тексте ближе к IDEA */
+body.theme-dark .markdown-rendered a {
+  color: var(--text-accent) !important;
+}
+
+/* Панели и навигация чуть темнее как в IDEA */
+body.theme-dark .workspace, 
+body.theme-dark .side-dock, 
+body.theme-dark .nav-files-container {
+  background-color: var(--background-secondary) !important;
+}

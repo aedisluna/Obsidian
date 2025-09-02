@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "b1ec2e4e8b124cf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0b599e33d768788",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a022c07199b25131",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Printf.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Printf"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19b3ec2b64b69a06",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "74b094795e309931",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "cf937a6d02b523c1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "6f7c75ab56e9b861",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "4df51567c64df4b2",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "bf5c905b1c765c8e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "4ca5f4c70f83a50a",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {},
+          "icon": "layout-grid",
+          "title": "Navigator"
+        }
+      }
+    ],
+    "currentTab": 5
+  },
+  "right": {
+    "id": "a4a0d5a3a4493e5f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "eb04ab7fac883856",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Jenkins.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "0d670d3c3b8e940b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Jenkins.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": false
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "d49237d6d2343748",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Jenkins.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a022c07199b25131",
+  "lastOpenFiles": [
+    "Java/Полезное.md",
+    "Java/Try - Catch.md",
+    "Java/StringBuilder.md",
+    "Java/Полезное.sync-conflict-20250831-230629-SFLFET5.md",
+    "Java/Try - Catch.sync-conflict-20250831-230629-SFLFET5.md",
+    "Java/String.md",
+    "Jenkins.md",
+    "Java/31-08-2025.md",
+    "31-08-2025.md",
+    "Собесы.md",
+    "Центробанк.md",
+    "Тестовый набор.md",
+    "Пример тестирования GUI.md",
+    "Логи.md",
+    "Легенда.md",
+    "ВКР.md",
+    "ВКР покороче.md",
+    "Кейсы миграция.md",
+    "Untitled 1.md",
+    "Иннотех.md",
+    "ВТБ.md",
+    "QA.md",
+    "Untitled 2.md",
+    "Todo.md",
+    "Untitled.md",
+    "Java/Printf.md",
+    "IRL",
+    "Pasted image 20240528183555.png",
+    "Excalidraw/Pasted image 20240528163432.png",
+    "Excalidraw/Pasted image 20240528163759.png",
+    "Excalidraw/Pasted image 20240528163730.png",
+    "Excalidraw/Pasted image 20240528163638.png",
+    "Excalidraw/Pasted image 20240528163532.png",
+    "Excalidraw/Pasted image 20240517131152.png",
+    "Excalidraw/83f13c5acdaf0ef4c6b5f9bc527065c2.png",
+    "Excalidraw/Виды тестирования-граф.png",
+    "Excalidraw/Пирамида тестирования.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Excalidraw",
+    "Untitled 2.canvas",
+    "Drawing 2024-05-03 11.54.16.excalidraw.excalidraw",
+    "Tags"
+  ]
+}

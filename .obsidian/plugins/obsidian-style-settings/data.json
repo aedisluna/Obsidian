@@ -1,0 +1,23 @@
+{
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-lavender",
+  "ulu-theme-settings@@ulu-subtheme-selection": "ulu-we3",
+  "ulu-theme-settings@@ulu-color-accent": "ulu-blue",
+  "ulu-theme-settings@@ulu-theme-dark": "ulu-dracula-dt",
+  "ulu-theme-settings@@ulu-theme-light": "ulu-con-l",
+  "ulu-theme-settings@@ulu-cards-border": true,
+  "ulu-theme-settings@@ulu-cards-shadow": false,
+  "ulu-theme-settings@@ulu-radius": "var(--radius-m)",
+  "ulu-theme-settings@@ulu-callouts": "none",
+  "ulu-theme-settings@@ulu-codeblocks": "ulu-gummy-codeblock",
+  "ulu-theme-settings@@ulu-border": "ulu-noborder",
+  "ulu-theme-settings@@ulu-prop-card": false,
+  "ulu-theme-settings@@ulu-bar": false,
+  "ulu-theme-settings@@ulu-faintselect": false,
+  "ulu-theme-settings@@ulu-list-distinct": false,
+  "ulu-theme-settings@@ulu-scrollbars": false,
+  "ulu-theme-settings@@ulu-font-title": "Inter",
+  "ulu-theme-settings@@ulu-font-general": "Inter",
+  "ulu-theme-settings@@ulu-notitle": false
+}

@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "3310e8f0ae4961f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd7e4fed1be039fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9fef06cee150ef2",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "/"
+              },
+              "icon": "lucide-file",
+              "title": "Knowledge"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5be82b290a7ca900",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f30d8972b7d60b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de5c60657c31f84d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "457248dedea165b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "932bb5b9d5ffae59",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "3bfc7bfa20107d42",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "304a52426c793aae",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f729023463b34f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88a0b3a89d32fd02",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java/StringBuilder.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for StringBuilder"
+            }
+          },
+          {
+            "id": "75743ffceff62860",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java/StringBuilder.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from StringBuilder"
+            }
+          },
+          {
+            "id": "c25bde37be304995",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fa3c2921d2d8f3d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java/StringBuilder.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of StringBuilder"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "fa3c2921d2d8f3d7",
+  "lastOpenFiles": [
+    "Vault.md",
+    "Comparator.md",
+    "Java/Полезное.md",
+    "Java/Arrays.md",
+    "Java/Switch - Case.md",
+    "Java/StringBuilder.md",
+    "Java/String.md",
+    "Java/Printf.md",
+    "Java/Regex.md",
+    "Regular Expressions.md",
+    "Java/Try - Catch.md",
+    "Java/Git.md",
+    "Java/Сокращения Idea.md",
+    "Java/Шорткаты Idea.md",
+    "Java/IntelliJ IDEA.md",
+    "Java/Java.md",
+    "QA/Покер планирования.md",
+    "QA/HTTP статус коды.md",
+    "QA/Планирование тестирования.md",
+    "QA/Теория тестирования.md",
+    "Иннотех.md",
+    "QA.md",
+    "QA/QA.md",
+    "QA",
+    "Java/Try - Catch.sync-conflict-20250831-230629-SFLFET5.md",
+    "Java/Полезное.sync-conflict-20250831-230629-SFLFET5.md",
+    "Java/~syncthing~Полезное.sync-conflict-20250831-230629-SFLFET5.md.tmp",
+    "Java/~syncthing~Try - Catch.sync-conflict-20250831-230629-SFLFET5.md.tmp",
+    ".md",
+    "Java/~syncthing~Printf.md.tmp",
+    "Java/~syncthing~Полезное.md.tmp",
+    "2025-08-30.md",
+    "IRL/~syncthing~Рецепты коктейлей.md.tmp",
+    "IRL",
+    "Java",
+    "~syncthing~HTTP.md.tmp",
+    "Excalidraw/Пирамида тестирования.png",
+    "Excalidraw/83f13c5acdaf0ef4c6b5f9bc527065c2.png",
+    "Excalidraw/Виды тестирования-граф.png",
+    "Untitled.canvas"
+  ]
+}
