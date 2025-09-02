@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"263bb9037be770d0","x":-160,"y":-180,"width":400,"height":400,"type":"file","file":"Теория тестирования.md"},
-		{"id":"cee802e4cb455413","x":-160,"y":-320,"width":400,"height":100,"type":"file","file":"Drawing 2024-05-03 11.54.16.excalidraw.md"}
-	],
-	"edges":[
-		{"id":"55e190acf0d5e974","fromNode":"cee802e4cb455413","fromSide":"bottom","toNode":"263bb9037be770d0","toSide":"top"}
-	]
-}
