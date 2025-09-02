@@ -11,12 +11,24 @@
             "id": "b9fef06cee150ef2",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Excalidraw"
+                "file": "Java/Java-Library-Structure.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Excalidraw"
+              "title": "Java-Library-Structure"
             }
           }
         ]
@@ -122,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/StringBuilder.md",
+                "file": "Java/Java-Library-Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from StringBuilder"
+              "title": "Outgoing links from Java-Library-Structure"
             }
           },
           {
@@ -151,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/StringBuilder.md",
+                "file": "Java/Java-Library-Structure.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of StringBuilder"
+              "title": "Outline of Java-Library-Structure"
             }
           },
           {
@@ -189,8 +201,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9fef06cee150ef2",
+  "active": "d47a1c9767b23e3b",
   "lastOpenFiles": [
+    "Java/Java-Basics.md",
+    "Java/Java-Library-Structure.md",
+    "Java/JUnit-Basics.md",
+    "Java/OOP-Principles.md",
+    "Java/Exception-Handling.md",
+    "Java/Collections-Overview.md",
+    "Java/Try - Catch.md",
+    "~syncthing~.sync-conflict-20250902-223200-SFLFET5.gitignore.tmp",
+    "Java/Arrays.md",
+    "Java/Git.md",
     "QA.md",
     "QA/Кейсы миграция.md",
     "QA/Легенда.md",
@@ -198,27 +220,18 @@
     "Vault.md",
     "Comparator.md",
     "Java/Полезное.md",
-    "Java/Arrays.md",
     "Java/Switch - Case.md",
     "Java/StringBuilder.md",
     "Java/String.md",
     "Java/Printf.md",
     "Java/Regex.md",
     "Regular Expressions.md",
-    "Java/Try - Catch.md",
-    "Java/Git.md",
     "Java/Сокращения Idea.md",
     "Java/Шорткаты Idea.md",
     "Java/IntelliJ IDEA.md",
     "Java/Java.md",
     "QA/Покер планирования.md",
-    "QA/HTTP статус коды.md",
-    "QA/Планирование тестирования.md",
-    "QA/Теория тестирования.md",
-    "Иннотех.md",
-    "QA/QA.md",
     "QA",
-    "Java/Try - Catch.sync-conflict-20250831-230629-SFLFET5.md",
     "Java/~syncthing~Полезное.sync-conflict-20250831-230629-SFLFET5.md.tmp",
     "Java/~syncthing~Try - Catch.sync-conflict-20250831-230629-SFLFET5.md.tmp",
     ".md",
@@ -226,7 +239,6 @@
     "Java/~syncthing~Полезное.md.tmp",
     "IRL/~syncthing~Рецепты коктейлей.md.tmp",
     "IRL",
-    "Java",
     "Excalidraw/Пирамида тестирования.png",
     "Excalidraw/83f13c5acdaf0ef4c6b5f9bc527065c2.png",
     "Excalidraw/Виды тестирования-граф.png",
