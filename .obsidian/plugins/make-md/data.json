@@ -43,8 +43,8 @@
     "//Java",
     "//IRL",
     "Java",
-    "/",
-    "//"
+    "//",
+    "/"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

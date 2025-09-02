@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "/"
+                "path": "Excalidraw"
               },
               "icon": "lucide-file",
-              "title": "Knowledge"
+              "title": "Excalidraw"
             }
           }
         ]
@@ -159,9 +159,19 @@
               "icon": "lucide-list",
               "title": "Outline of StringBuilder"
             }
+          },
+          {
+            "id": "d47a1c9767b23e3b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -179,8 +189,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa3c2921d2d8f3d7",
+  "active": "b9fef06cee150ef2",
   "lastOpenFiles": [
+    "QA.md",
+    "QA/Кейсы миграция.md",
+    "QA/Легенда.md",
+    "New Text Document.txt",
     "Vault.md",
     "Comparator.md",
     "Java/Полезное.md",
@@ -202,21 +216,17 @@
     "QA/Планирование тестирования.md",
     "QA/Теория тестирования.md",
     "Иннотех.md",
-    "QA.md",
     "QA/QA.md",
     "QA",
     "Java/Try - Catch.sync-conflict-20250831-230629-SFLFET5.md",
-    "Java/Полезное.sync-conflict-20250831-230629-SFLFET5.md",
     "Java/~syncthing~Полезное.sync-conflict-20250831-230629-SFLFET5.md.tmp",
     "Java/~syncthing~Try - Catch.sync-conflict-20250831-230629-SFLFET5.md.tmp",
     ".md",
     "Java/~syncthing~Printf.md.tmp",
     "Java/~syncthing~Полезное.md.tmp",
-    "2025-08-30.md",
     "IRL/~syncthing~Рецепты коктейлей.md.tmp",
     "IRL",
     "Java",
-    "~syncthing~HTTP.md.tmp",
     "Excalidraw/Пирамида тестирования.png",
     "Excalidraw/83f13c5acdaf0ef4c6b5f9bc527065c2.png",
     "Excalidraw/Виды тестирования-граф.png",
