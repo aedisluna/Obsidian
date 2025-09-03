@@ -11,14 +11,24 @@
             "id": "b9fef06cee150ef2",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Java/Git.md",
-                "bFile": "Java/Git.md",
-                "aRef": ""
+                "file": "Java/Switch - Case.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: Git"
+              "icon": "lucide-file",
+              "title": "Switch - Case"
             }
           }
         ]
@@ -124,11 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/Switch - Case.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Switch - Case"
             }
           },
           {
@@ -152,12 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Java/Switch - Case.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Switch - Case"
             }
           },
           {
@@ -175,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 337.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,32 +203,33 @@
   },
   "active": "b9fef06cee150ef2",
   "lastOpenFiles": [
-    "Java/Java-Library-Structure.md",
-    "Classes-and-Objects.md",
-    "Java/Java.md",
-    "Java/Шорткаты Idea.md",
-    "Java/Сокращения Idea.md",
     "Java/Git.md",
-    "Java/Printf.md",
-    "Java/StringBuilder.md",
-    "Java/Reflection.md",
-    "Java/Constructors.md",
-    "Java/Annotations.md",
-    "Java/Best-Practices.md",
-    "Java/String.md",
-    "Java/Stream-API.md",
-    "Java/Enum.md",
-    "Java/Generics.md",
-    "Java/JUnit-Basics.md",
-    "Java/Lambda-Expressions.md",
-    "Java/Switch - Case.md",
-    "Java/Switch-Case.md",
-    "Java/Try - Catch.md",
-    "Java/OOP-Principles.md",
-    "Java/Try-Catch.md",
-    "Java/Regex.md",
+    "Java/Java-Library-Structure.md",
+    "Java/Comparator.md",
     "Java/Collections-Overview.md",
     "Java/Java-Basics.md",
+    "Java/JUnit-Basics.md",
+    "Java/Arrays.md",
+    "Java/Образцы кода/Arrays-Code.md",
+    "Java/Printf.md",
+    "Java/Образцы кода/Generics-Code.md",
+    "Java/Образцы кода/Interfaces-Code.md",
+    "Java/Образцы кода/Constructors-Code.md",
+    "Java/Образцы кода/Stream-API-Code.md",
+    "Java/Образцы кода/Printf-Code.md",
+    "Java/Образцы кода/Git-code.md",
+    "Java/Regex.md",
+    "Java/Regular Expressions.md",
+    "Java/StringBuilder.md",
+    "Java/String.md",
+    "Java/Образцы кода/Exception-Handling-Code.md",
+    "Java/OOP-Principles.md",
+    "Java/Образцы кода/Enum-Code.md",
+    "Java/Образцы кода/Reflection-Code.md",
+    "Java/Образцы кода/Annotations-Code.md",
+    "Java/Образцы кода/Best-Practices-Code.md",
+    "Java/Образцы кода/OOP-Principles-Code.md",
+    "Java/Образцы кода",
     "Tags",
     "~syncthing~.sync-conflict-20250902-223200-SFLFET5.gitignore.tmp",
     "New Text Document.txt",
@@ -226,7 +239,6 @@
     ".md",
     "Java/~syncthing~Printf.md.tmp",
     "Java/~syncthing~Полезное.md.tmp",
-    "IRL/~syncthing~Рецепты коктейлей.md.tmp",
     "Excalidraw/Пирамида тестирования.png",
     "Excalidraw/83f13c5acdaf0ef4c6b5f9bc527065c2.png",
     "Excalidraw/Виды тестирования-граф.png",

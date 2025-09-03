@@ -450,4 +450,4 @@ public class DataTypeDemo {
 - [[OOP-Principles|Принципы ООП]] - объектно-ориентированное программирование
 - [[String|String]] - подробно о работе со строками
 - [[Arrays|Arrays]] - массивы в Java
-- [[Switch-Case|Switch-Case]] - оператор выбора
+- [[Switch-Case-Code|Switch-Case-Code]] - оператор выбора

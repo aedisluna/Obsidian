@@ -11,13 +11,14 @@
 - [[Java-Syntax|Синтаксис Java]] - конструкции языка, правила написания
 
 ### 🔹 Работа со строками и данными
-- [[String|String]] ⭐ - работа со строками
-- [[StringBuilder|StringBuilder]] ⭐ - эффективная работа со строками
-- [[Arrays|Arrays]] ⭐ - массивы и утилиты для работы с ними
-- [[Printf|Printf]] ⭐ - форматирование вывода
+- [[String|String]]  - работа со строками
+- [[StringBuilder|StringBuilder]]  - эффективная работа со строками
+- [[Arrays|Arrays]]  - массивы и утилиты для работы с ними
+- [[Printf|Printf]]  - форматирование вывода
+- [[Comparator]] - Интерфейс сравнения
 
 ### 🔹 Управление потоком выполнения
-- [[Switch - Case]] ⭐ - оператор множественного выбора
+- [[Switch - Case]]  - оператор множественного выбора
 - [[Loops|Циклы]] - for, while, do-while
 - [[Conditionals|Условные операторы]] - if-else
 
@@ -25,26 +26,26 @@
 - [[Collections-Overview|Обзор коллекций]] - List, Set, Map
 - [[ArrayList-vs-LinkedList|ArrayList vs LinkedList]]
 - [[HashMap-vs-TreeMap|HashMap vs TreeMap]]
-- [[Stream-API|Stream API]] - функциональное программирование
+- [[Stream-API-Code|Stream API]] - функциональное программирование
 
 ### 🔹 ООП в деталях
 - [[Classes-and-Objects|Классы и объекты]]
-- [[Constructors|Конструкторы]] - создание объектов
+- [[Constructors-Code|Конструкторы]] - создание объектов
 - [[Methods|Методы]] - статические и нестатические
 - [[Inheritance|Наследование]] - extends, super
-- [[Interfaces|Интерфейсы]] - абстракция
-- [[Enum|Перечисления]] - enum типы
+- [[Interfaces-Code|Интерфейсы]] - абстракция
+- [[Enum-Code|Перечисления]] - enum типы
 
 ### 🔹 Обработка ошибок
-- [[Exception-Handling|Обработка исключений]] - try-catch-finally
+- [[Exception-Handling-Code|Обработка исключений]] - try-catch-finally
 - [[Exception-Types|Типы исключений]] - checked vs unchecked
 
 ### 🔹 Регулярные выражения
-- [[Regex|Regex]] ⭐ - регулярные выражения в Java
-- [[Regular Expressions|Regular-Expressions]] ⭐ - паттерны и матчеры
+- [[Regex|Regex]]  - регулярные выражения в Java
+- [[Regular Expressions|Regular-Expressions]]  - паттерны и матчеры
 
 ### 🔹 Функциональное программирование
-- [[Lambda-Expressions|Lambda выражения]]
+- [[Lambda-Expressions-Code|Lambda выражения]]
 - [[Method-References|Ссылки на методы]]
 - [[Functional-Interfaces|Функциональные интерфейсы]]
 
@@ -55,13 +56,13 @@
 - [[TDD|Test-Driven Development]]
 
 ### 🔹 Продвинутые темы
-- [[Generics|Дженерики]] - параметризованные типы
-- [[Annotations|Аннотации]] - метаданные
-- [[Reflection|Рефлексия]] - работа с классами во время выполнения
-- [[Multithreading|Многопоточность]] - threads, concurrent
+- [[Generics-Code|Дженерики]] - параметризованные типы
+- [[Annotations-Code|Аннотации]] - метаданные
+- [[Reflection-Code|Рефлексия]] - работа с классами во время выполнения
+- [[Multithreading-Code|Многопоточность]] - threads, concurrent
 
 ### 🔹 Практические советы
-- [[Best-Practices|Лучшие практики]]
+- [[Best-Practices-Code|Лучшие практики]]
 - [[Common-Mistakes|Частые ошибки]]
 - [[Performance-Tips|Советы по производительности]]
 - [[IntelliJ-Tips|Советы по IntelliJ IDEA]]
@@ -74,16 +75,6 @@
 
 ---
 
-## 📝 Условные обозначения
-
-- ⭐ - уже готовые заметки (требуют доработки)
-- 🆕 - новые заметки для создания
-- 🔄 - заметки для обновления
-- 📋 - практические примеры
-- ⚠️ - важные моменты
-- 💡 - советы и трюки
-
----
 
 ## 🔗 Быстрые ссылки
 
@@ -95,12 +86,12 @@
 
 ### Для практики
 1. [[Collections-Overview|Коллекции]]
-2. [[Stream-API|Stream API]]
-3. [[Exception-Handling|Исключения]]
+2. [[Stream-API-Code|Stream API]]
+3. [[Exception-Handling-Code|Исключения]]
 4. [[JUnit-Basics|Тестирование]]
 
 ### Для собеседований
 1. [[OOP-Principles|ООП]]
 2. [[Collections-Overview|Коллекции]]
-3. [[Multithreading|Многопоточность]]
-4. [[Best-Practices|Лучшие практики]]
+3. [[Multithreading-Code|Многопоточность]]
+4. [[Best-Practices-Code|Лучшие практики]]

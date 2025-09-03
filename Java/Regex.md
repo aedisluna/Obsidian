@@ -2,7 +2,7 @@
 
 > Библиотека: java.util.regex — Pattern (компилирует шаблон), Matcher (выполняет поиск/совпадения), PatternSyntaxException (ошибки синтаксиса).
 
-# [[Regular Expressions.md|Синтаксис Regexp]]
+# [[Regular Expressions|Синтаксис Regexp]]
 
 
 ## Meta
