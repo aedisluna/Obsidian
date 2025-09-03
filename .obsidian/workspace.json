@@ -11,24 +11,14 @@
             "id": "b9fef06cee150ef2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Java/Java-Library-Structure.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": "Java/Git.md",
+                "bFile": "Java/Git.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Java-Library-Structure"
+              "icon": "diff",
+              "title": "Diff: Git"
             }
           }
         ]
@@ -134,12 +124,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java-Library-Structure.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Java-Library-Structure"
+              "title": "Outgoing links"
             }
           },
           {
@@ -163,13 +152,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java-Library-Structure.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Java-Library-Structure"
+              "title": "Outline"
             }
           },
           {
@@ -187,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 296.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,36 +189,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d47a1c9767b23e3b",
+  "active": "b9fef06cee150ef2",
   "lastOpenFiles": [
-    "Java/Java-Basics.md",
-    "Java/Java-Library-Structure.md",
-    "Java/JUnit-Basics.md",
-    "Java/OOP-Principles.md",
-    "Java/Exception-Handling.md",
-    "Java/Collections-Overview.md",
-    "Java/Try - Catch.md",
-    "~syncthing~.sync-conflict-20250902-223200-SFLFET5.gitignore.tmp",
-    "Java/Arrays.md",
     "Java/Git.md",
-    "QA.md",
-    "QA/Кейсы миграция.md",
-    "QA/Легенда.md",
-    "New Text Document.txt",
-    "Vault.md",
-    "Comparator.md",
-    "Java/Полезное.md",
-    "Java/Switch - Case.md",
-    "Java/StringBuilder.md",
-    "Java/String.md",
     "Java/Printf.md",
-    "Java/Regex.md",
-    "Regular Expressions.md",
-    "Java/Сокращения Idea.md",
+    "Java/Reflection.md",
+    "Java/Constructors.md",
+    "Java/Annotations.md",
+    "Java/Best-Practices.md",
+    "Java/String.md",
+    "Java/Stream-API.md",
+    "Java/Enum.md",
+    "Java/Generics.md",
+    "Java/JUnit-Basics.md",
+    "Java/Lambda-Expressions.md",
+    "Java/Switch - Case.md",
+    "Java/Switch-Case.md",
+    "Java/Try - Catch.md",
+    "Java/OOP-Principles.md",
     "Java/Шорткаты Idea.md",
-    "Java/IntelliJ IDEA.md",
-    "Java/Java.md",
-    "QA/Покер планирования.md",
+    "Java/StringBuilder.md",
+    "Java/Java-Library-Structure.md",
+    "Java/Try-Catch.md",
+    "Java/Regex.md",
+    "Java/Collections-Overview.md",
+    "Java/Java-Basics.md",
+    "Java/Multithreading.md",
+    "Java/Полезное.md",
+    "Regular Expressions.md",
+    "Tags",
+    "~syncthing~.sync-conflict-20250902-223200-SFLFET5.gitignore.tmp",
+    "New Text Document.txt",
     "QA",
     "Java/~syncthing~Полезное.sync-conflict-20250831-230629-SFLFET5.md.tmp",
     "Java/~syncthing~Try - Catch.sync-conflict-20250831-230629-SFLFET5.md.tmp",
@@ -238,7 +227,6 @@
     "Java/~syncthing~Printf.md.tmp",
     "Java/~syncthing~Полезное.md.tmp",
     "IRL/~syncthing~Рецепты коктейлей.md.tmp",
-    "IRL",
     "Excalidraw/Пирамида тестирования.png",
     "Excalidraw/83f13c5acdaf0ef4c6b5f9bc527065c2.png",
     "Excalidraw/Виды тестирования-граф.png",

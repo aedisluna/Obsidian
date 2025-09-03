@@ -17,7 +17,7 @@
 - [[Printf|Printf]] ⭐ - форматирование вывода
 
 ### 🔹 Управление потоком выполнения
-- [[Switch-Case|Switch-Case]] ⭐ - оператор множественного выбора
+- [[Switch - Case]] ⭐ - оператор множественного выбора
 - [[Loops|Циклы]] - for, while, do-while
 - [[Conditionals|Условные операторы]] - if-else
 
@@ -41,7 +41,7 @@
 
 ### 🔹 Регулярные выражения
 - [[Regex|Regex]] ⭐ - регулярные выражения в Java
-- [[Regular-Expressions|Regular-Expressions]] ⭐ - паттерны и матчеры
+- [[Regular Expressions|Regular-Expressions]] ⭐ - паттерны и матчеры
 
 ### 🔹 Функциональное программирование
 - [[Lambda-Expressions|Lambda выражения]]

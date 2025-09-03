@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comparator.md",
+                "file": "Java/Java-Library-Structure.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Comparator"
+              "title": "Java-Library-Structure"
             }
           }
         ],
@@ -119,7 +119,7 @@
         }
       },
       {
-        "id": "bf5c905b1c765c8e",
+        "id": "4ca5f4c70f83a50a",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -132,7 +132,7 @@
         }
       },
       {
-        "id": "4ca5f4c70f83a50a",
+        "id": "a14dcbb45d54a99a",
         "type": "leaf",
         "state": {
           "type": "mk-path-view",
@@ -213,6 +213,10 @@
   },
   "active": "86192020e76bb93e",
   "lastOpenFiles": [
+    "Java/Exception-Handling.md",
+    "Java/Collections-Overview.md",
+    "Comparator.md",
+    "Tags",
     "Java/Printf.md",
     ".gitignore.md",
     "Java/Полезное.md",
@@ -236,9 +240,6 @@
     "Untitled 1.md",
     "Иннотех.md",
     "ВТБ.md",
-    "QA.md",
-    "Untitled 2.md",
-    "Todo.md",
     "IRL",
     "Pasted image 20240528183555.png",
     "Excalidraw/Pasted image 20240528163432.png",
@@ -254,7 +255,6 @@
     "Untitled 1.canvas",
     "Excalidraw",
     "Untitled 2.canvas",
-    "Drawing 2024-05-03 11.54.16.excalidraw.excalidraw",
-    "Tags"
+    "Drawing 2024-05-03 11.54.16.excalidraw.excalidraw"
   ]
 }

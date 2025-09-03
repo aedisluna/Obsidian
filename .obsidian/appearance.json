@@ -2,7 +2,9 @@
   "accentColor": "#171ee8",
   "cssTheme": "",
   "theme": "obsidian",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "idea-colors"
+  ],
   "showViewHeader": true,
   "showRibbon": true,
   "nativeMenus": false
