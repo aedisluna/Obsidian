@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java-Library-Structure.md",
+                "file": "Java/Git.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Java-Library-Structure"
+              "title": "Git"
             }
           }
         ],
@@ -119,7 +119,7 @@
         }
       },
       {
-        "id": "4ca5f4c70f83a50a",
+        "id": "4155c060d31801a9",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -132,7 +132,7 @@
         }
       },
       {
-        "id": "a14dcbb45d54a99a",
+        "id": "3266b9c8f8dcfd5e",
         "type": "leaf",
         "state": {
           "type": "mk-path-view",
@@ -195,9 +195,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "7bee25d73b8e68cd",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 1
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,6 +223,9 @@
   },
   "active": "86192020e76bb93e",
   "lastOpenFiles": [
+    "Java/Comparator.md",
+    "Java/Git.md",
+    "Java/Java-Library-Structure.md",
     "Java/Exception-Handling.md",
     "Java/Collections-Overview.md",
     "Comparator.md",
@@ -237,9 +250,6 @@
     "ВКР.md",
     "ВКР покороче.md",
     "Кейсы миграция.md",
-    "Untitled 1.md",
-    "Иннотех.md",
-    "ВТБ.md",
     "IRL",
     "Pasted image 20240528183555.png",
     "Excalidraw/Pasted image 20240528163432.png",

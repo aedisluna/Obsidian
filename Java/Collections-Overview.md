@@ -492,14 +492,14 @@ public class TreeMapDemo {
 
 ### List реализации
 
-| Операция | ArrayList | LinkedList | Vector |
-|----------|-----------|------------|---------|
-| **get(index)** | O(1) | O(n) | O(1) |
-| **add(element)** | O(1)* | O(1) | O(1)* |
-| **add(index, element)** | O(n) | O(n) | O(n) |
-| **remove(index)** | O(n) | O(n) | O(n) |
-| **Потокобезопасность** | ❌ | ❌ | ✅ |
-| **Дата появления** | Java 1.2 | Java 1.2 | Java 1.0 |
+| Операция                | ArrayList | LinkedList | Vector   |
+| ----------------------- | --------- | ---------- | -------- |
+| **get(index)**          | O(1)      | O(n)       | O(1)     |
+| **add(element)**        | O(1)*     | O(1)       | O(1)*    |
+| **add(index, element)** | O(n)      | O(n)       | O(n)     |
+| **remove(index)**       | O(n)      | O(n)       | O(n)     |
+| **Потокобезопасность**  | ❌         | ❌          | ✅        |
+| **Дата появления**      | Java 1.2  | Java 1.2   | Java 1.0 |
 
 *амортизированная сложность
 
