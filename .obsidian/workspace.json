@@ -80,12 +80,12 @@
             }
           },
           {
-            "id": "a5e6643f601db23e",
+            "id": "af0a3b13d551a6b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Regular Expressions.md",
+                "file": "Java/ArrayList.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Regular Expressions"
+              "title": "ArrayList"
+            }
+          },
+          {
+            "id": "deb48cd98c4655b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IRL/Вишлист.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Вишлист"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -167,8 +191,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -236,13 +259,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Regular Expressions.md",
+                "file": "IRL/Вишлист.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Regular Expressions"
+              "title": "Outline of Вишлист"
             }
           },
           {
@@ -274,34 +297,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5e6643f601db23e",
+  "active": "deb48cd98c4655b3",
   "lastOpenFiles": [
+    "IRL/Рецепты.md",
+    "IRL/Вишлист.md",
+    "Java/JUnit 5 cheat sheet.md",
+    "Java/Defensive copy vs unmodifiableList.md",
+    "Java/ArrayList.md",
+    "Java/Образцы кода/Образцы кода.md",
+    "Java/Collections-Overview.md",
+    "Java/Java.md",
+    "Java/Java-Library-Structure.md",
+    "Defensive copy vs unmodifiableList.md",
+    "Java/Testing small domain classes.md",
+    "Java/Equals and hashCode testing.md",
+    "Java/Encapsulation of mutable fields.md",
+    "Java/Полезное.md",
+    "Equals and hashCode testing.md",
+    "Java/Образцы кода/Reflection-Code.md",
+    "Java/Образцы кода/Enum-Code.md",
+    "Java/Образцы кода/Exception-Handling-Code.md",
+    "Testing small domain classes.md",
+    "Encapsulation of mutable fields.md",
+    "JUnit 5 cheat sheet.md",
+    "Java/Comparator.md",
+    "Java/Regular Expressions.md",
     "Java/Reflection API.md",
     "Java/Lombok.md",
     "Java/Stream API.md",
-    "Java/System.md",
-    "Java/Лямбда-выражения.md",
-    "Java/Solid.md",
-    "Java/Regular Expressions.md",
-    "Java/Java.md",
-    "Сервер.md",
-    "QA/Untitled.md",
-    "QA/Untitled 1.md",
-    "Java/Collections-Overview.md",
-    "Java/Git.md",
-    "Java/ArrayList.md",
-    "Java/Arrays.md",
-    "Java/Regex.md",
-    "Java/Образцы кода/Untitled.md",
-    "Java/Образцы кода/Образцы кода.md",
-    "Java/Comparator.md",
-    "Java/Образцы кода/Arrays-Code.md",
-    "Java/Switch - Case.md",
-    "Java/Java-Library-Structure.md",
-    "Java/Java-Basics.md",
-    "Java/JUnit-Basics.md",
-    "Java/Printf.md",
-    "Java/Образцы кода/Generics-Code.md",
     "Java/Образцы кода",
     "Tags",
     "~syncthing~.sync-conflict-20250902-223200-SFLFET5.gitignore.tmp",
